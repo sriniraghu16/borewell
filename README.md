@@ -13,3 +13,5 @@ APIT
 
 HOD
 Dr. T. Purusothaman ME, Ph. D
+
+College : GCT 
